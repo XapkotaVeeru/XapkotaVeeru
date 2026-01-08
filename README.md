@@ -21,20 +21,20 @@
 ## 💼 Skills & Technologies
 
 #### 🧠 Programming Languages
-- **Python** – Data processing, scripting, algorithmic practice (LeetCode)  
+- **Python** – Data processing, scripting, algorithmic practice 
 - **JavaScript** – Game dev & frontend logic  
 - **C / C++** – Systems & performance-oriented coding  
 - **SQL** – Database fundamentals  
 - **MATLAB / Jupyter Notebook** – Signal processing & simulations
 
 ### 🌐 Web & Frontend
-- **HTML5 / CSS3** – Basic web structure & styling  
+- **HTML5 / CSS3 / ReactJS** – Basic web structure & styling  
 - **npm & toolchains**
 
 ### 📊 Data, Simulation & ML Foundations
 - **Jupyter Notebooks** (Data analysis, spectrum sensing simulation)  
 - **Data-driven experimentation**
-- **Problem solving & algorithmic thinking** (LeetCode)
+- **Problem solving & algorithmic thinking** 
 
 ### 🛠 Tools & Platforms
 - **Git & GitHub**
