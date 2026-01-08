@@ -47,7 +47,7 @@
 
 ## 🚧 Projects on My GitHub
 
-Here are some of the repositories I’ve worked on: :contentReference[oaicite:1]{index=1}
+Here are some of the repositories I’ve worked on: 
 
 | Project | Tech | Description |
 |---------|------|-------------|
