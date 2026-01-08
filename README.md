@@ -53,9 +53,10 @@ Here are some of the repositories I’ve worked on:
 |---------|------|-------------|
 | **Flappy-Bird** | JavaScript | Classic browser game implementation |
 | **Spectrum-Sensing-Simulations** | Jupyter (Python) | Communication systems simulation |
-| **Public-Dataset-Training** | Jupyter | Data analysis & dataset experiments |
-| **Spectrum-Sensing-and-Dynamic-Spectrum-Allocation** | Jupyter | Advanced wireless simulation |
+| **Public-Dataset-Training** | Jupyter (Python) | Data analysis & dataset experiments |
+| **Spectrum-Sensing-and-Dynamic-Spectrum-Allocation** | JJupyter (Python) | Advanced wireless simulation |
 | **Pomodoro-Timer** | Python | Productivity timer app |
+| **Password Strength Checker** | Python | GUI tool to evaluate password strength with color-coded feedback |
 
 > And more — check out my repositories for detailed code, notebooks, and experiments 👉  
 > 🔗 https://github.com/XapkotaVeeru?tab=repositories
