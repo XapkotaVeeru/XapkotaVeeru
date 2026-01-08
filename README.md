@@ -13,8 +13,6 @@
 ## 🚀 About Me
 - 🎓 Bachelor of Engineering (BE) Student  
 - 💻 Passionate about **coding, problem-solving, and modern technologies**
-- 🌐 Interested in **Web Development, Cybersecurity & Cloud Computing**
+- 🌐 Interested in **Web Development, Machine Learning, Cybersecurity & Cloud Computing**
 - 🧠 Always learning and exploring new tech
-- 🤝 IEEE Student Member & Tech Community Contributor
-
 ---
