@@ -15,4 +15,26 @@
 - 💻 Passionate about **coding, problem-solving, and modern technologies**
 - 🌐 Interested in **Web Development, Machine Learning, Cybersecurity & Cloud Computing**
 - 🧠 Always learning and exploring new tech
+
 ---
+
+## 🛠️ Tech Stack
+### 💻 Languages
+- C / C++
+- JavaScript
+- Python
+- SQL
+
+### 🌐 Web & Frameworks
+- HTML5
+- CSS3
+- React.js
+
+### 🧰 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Linux
+- npm
+
+---
+
