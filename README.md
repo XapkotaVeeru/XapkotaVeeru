@@ -54,7 +54,7 @@ Here are some of the repositories I’ve worked on:
 | **Flappy-Bird** | JavaScript | Classic browser game implementation |
 | **Spectrum-Sensing-Simulations** | Jupyter (Python) | Communication systems simulation |
 | **Public-Dataset-Training** | Jupyter (Python) | Data analysis & dataset experiments |
-| **Spectrum-Sensing-and-Dynamic-Spectrum-Allocation** | JJupyter (Python) | Advanced wireless simulation |
+| **Spectrum-Sensing-and-Dynamic-Spectrum-Allocation** | Jupyter (Python) | Advanced wireless simulation |
 | **Pomodoro-Timer** | Python | Productivity timer app |
 | **Password Strength Checker** | Python | GUI tool to evaluate password strength with color-coded feedback |
 
