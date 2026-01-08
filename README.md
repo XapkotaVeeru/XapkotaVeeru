@@ -57,18 +57,8 @@ Here are some of the repositories I’ve worked on: :contentReference[oaicite:1]
 | **Spectrum-Sensing-and-Dynamic-Spectrum-Allocation** | Jupyter | Advanced wireless simulation |
 | **Pomodoro-Timer** | Python | Productivity timer app |
 
-> And more — check out my repos for detailed code, notebooks, and experiments! :contentReference[oaicite:2]{index=2}
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=XapkotaVeeru&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=XapkotaVeeru&theme=tokyonight" alt="streak" />
-</p>
+> And more — check out my repositories for detailed code, notebooks, and experiments 👉  
+> 🔗 https://github.com/XapkotaVeeru?tab=repositories
 
 ---
 
@@ -78,20 +68,6 @@ Here are some of the repositories I’ve worked on: :contentReference[oaicite:1]
 - **Cloud & Deployment tools**
 - **Advanced React & Web Apps**
 
----
-
-## 🤝 Connect With Me
-<p align="left">
-  <a href="https://github.com/XapkotaVeeru" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
