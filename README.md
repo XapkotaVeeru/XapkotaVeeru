@@ -18,23 +18,30 @@
 
 ---
 
-## 🛠️ Tech Stack
-### 💻 Languages
-- C / C++
-- JavaScript
-- Python
-- SQL
+## 💼 Skills & Technologies
 
-### 🌐 Web & Frameworks
-- HTML5
-- CSS3
-- React.js
+#### 🧠 Programming Languages
+- **Python** – Data processing, scripting, algorithmic practice (LeetCode)  
+- **JavaScript** – Game dev & frontend logic  
+- **C / C++** – Systems & performance-oriented coding  
+- **SQL** – Database fundamentals  
+- **MATLAB / Jupyter Notebook** – Signal processing & simulations
 
-### 🧰 Tools & Platforms
-- Git & GitHub
-- VS Code
-- Linux
-- npm
+### 🌐 Web & Frontend
+- **HTML5 / CSS3** – Basic web structure & styling  
+- **npm & toolchains**
+
+### 📊 Data, Simulation & ML Foundations
+- **Jupyter Notebooks** (Data analysis, spectrum sensing simulation)  
+- **Data-driven experimentation**
+- **Problem solving & algorithmic thinking** (LeetCode)
+
+### 🛠 Tools & Platforms
+- **Git & GitHub**
+- **VS Code**
+- **Linux / Bash**
+- **GitHub Actions / Workflow basics**
+
 
 ---
 
