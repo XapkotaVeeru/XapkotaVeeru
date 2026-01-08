@@ -32,7 +32,7 @@
 - **npm & toolchains**
 
 ### 📊 Data, Simulation & ML Foundations
-- **Jupyter Notebooks** (Data analysis, spectrum sensing simulation)  
+- **Jupyter Notebooks**   
 - **Data-driven experimentation**
 - **Problem solving & algorithmic thinking** 
 
